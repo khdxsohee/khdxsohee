@@ -6,11 +6,11 @@
 
 ### 💫 Personal Info:
 
-I am a passionate Web Developer, constantly exploring modern design trends and building user-centric solutions. My development approach emphasizes performance, responsiveness, and accessibility to create websites and applications that are truly robust and future-proof.
+I am a passionate Web Developer, constantly exploring modern design trends and building user-centric solutions. My development approach emphasizes performance, responsiveness, and accessibility to create websites and that are truly robust and future-proof.
 
 I am also exploring freelancing opportunities and building high-quality projects to showcase my skills. My current major projects include:
 - 🎓 **Fee Records Management System**: A robust GAS & Html/JS web app for managing and tracking all Students fee related works.
-- 🖼️ KireiTab: A minimal, anime-themed Chrome New Tab extension that provides a clean and aesthetically pleasing browsing experience.
+- 🖼️ KireiTab: A minimal, anime-themed Chrome New Tab extension that provides a clean and aesthetically pleasing browsing.
 - 🔑 **OrderEase**: A simple PHP and MySQL web app for managing and tracking deliveries.
 - 🏠 **Pet Pulse**: A modern pet adoption platform featuring a responsive UI.
 
