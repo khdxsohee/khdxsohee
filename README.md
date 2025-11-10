@@ -6,12 +6,12 @@
 
 ### 💫 Personal Info:
 
-I am a passionate Web Developer, constantly exploring modern design trends and building user-centric solutions. I'm currently working on: Scaling the **Fee-Management-system** (GAS/Html/JS) and adding more features to **KireiTab**, focusing on making it the ultimate clean and highly customizable dashboard/new tab interface. My primary focus is on Full Stack Development and **UI/UX design**, but I also love working on **PHP/MySQL** back-end solutions and small utility applications.
+I am a passionate Web Developer, constantly exploring modern design trends and building user-centric solutions. My development approach emphasizes performance, responsiveness, and accessibility to create websites and applications that are truly robust and future-proof.
 
 I am also exploring freelancing opportunities and building high-quality projects to showcase my skills. My current major projects include:
 - 🎓 **Fee Records Management System**: A robust GAS & Html/JS web app for managing and tracking all Students fee related works.
+- 🖼️ KireiTab: A minimal, anime-themed Chrome New Tab extension that provides a clean and aesthetically pleasing browsing experience.
 - 🔑 **OrderEase**: A simple PHP and MySQL web app for managing and tracking deliveries.
-- 🌿 **PlantPal**: A friendly plant care assistant built with JavaScript.
 - 🏠 **Pet Pulse**: A modern pet adoption platform featuring a responsive UI.
 
 <br>👯	I'm looking to collaborate on: Any project that needs a strong focus on clean and robust Front-End & Backend development. I'm always open to modernizing PHP applications!
