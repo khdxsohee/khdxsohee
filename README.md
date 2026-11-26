@@ -1,7 +1,7 @@
 <!-- <p align="center"><b>2020 —— now</b></p> -->
  
 <a href="https://github.com/khdxsohee">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0C697A&size=22&lines=Welcome+to+khdxsohee's+GitHub+Profile!;Full+Stack+Developer+%26+Programmer;Building+Systems+%26+Automotation-Tools;Crafting+clean+code+%26+premium+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0C697A&size=22&lines=Welcome+to+khdxsohee's+GitHub+Profile!;Full+Stack+Developer+%26+Programmer;Building+Systems+%26+Automation-Tools;Crafting+clean+code+%26+premium+UI" alt="Typing SVG" />
 </a>
 
 ### 💫 Personal Info:
