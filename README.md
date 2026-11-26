@@ -19,7 +19,12 @@ Engineering high-performance, future-proof mobile and web applications with a fo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-%23239120.svg?style=for-the-badge&logo=stackshare&logoColor=white)
 
 
 ---
